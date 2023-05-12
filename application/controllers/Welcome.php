@@ -25,6 +25,6 @@ class Welcome extends CI_Controller {
 
 	public function tes()
 	{
-		$this->load->view('errors/template/backend/theme');
+		$this->load->view('template/backend/theme');
 	}
 }
