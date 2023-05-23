@@ -184,9 +184,9 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{site_url('backend/dashboard/table')}}">
+            <a class="nav-link" href="{{site_url('backend/article/list')}}">
               <span data-feather="file" class="align-text-bottom"></span>
-             Table 
+             List Article 
             </a>
           </li>
           </li>
